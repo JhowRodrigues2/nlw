@@ -72,6 +72,10 @@ section div {
   padding: 32px;
   padding-top: 24px;
   border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 section h2 {
   letter-spacing: -0.47xp;
